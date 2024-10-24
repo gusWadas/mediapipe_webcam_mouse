@@ -3,6 +3,10 @@ Code using hand landmark tracking with mediapipe to control a mouse with a webca
 
 Touchless Screen: WebCam Mouse
 
+Para rodar:
+- entre no diretório hand-gesture-recognition-mediapipe-main
+- execute $python trial_copy
+
 Referências
 Código base: https://github.com/kinivi/hand-gesture-recognition-mediapipe
 pyautogui: https://stackoverflow.com/questions/44294666/command-to-trigger-long-click-on-left-mouse-button
